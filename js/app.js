@@ -6,7 +6,7 @@ $(function(){
 	var endpoint = 'http://dca.telefonicabeta.com/m2m/v2/services/{0}'.format(token);
 	var timer = null;
 	var lastValue = 0;
-	var maxValue = 400;
+	var limitValue = 400;
 
 	$('#monitor').click(function(e){
 		e.preventDefault();
@@ -29,7 +29,7 @@ $(function(){
 			dataType:"json" 
 		})
       	.done(function(r) {
-			if(lastValue >= maxValue && r.data.sensorData[4].ms.v >= maxValue){
+			if(lastValue >= limitValue && r.data.sensorData[4].ms.v >= limitValue){
 				if($('#detected .alert-danger').css('visibility') == 'hidden'){
 					$('#detected .alert-danger').css('visibility', 'visible');
 					$('#detected .circle').css('background-color', '#FCFC0A');

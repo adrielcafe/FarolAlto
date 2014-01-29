@@ -1,18 +1,18 @@
 {
 	"version": "1.0",
 	"name": "Farol Alto",
-	"description": "App que utiliza o Kit de Desenvolvimento IoT da Telefonica | Vivo para simular a detecção de farol alto de automovéis que possa prejudicar ciclistas ou outros motoristas. O app simula a conexão com este automóvel e solicita que o mesmo abaixe o farol momentaneamente.",
+	"description": "App que utiliza o Kit de Desenvolvimento IoT da Telefonica | Vivo para simular a detecção de farol alto de automovéis que possa prejudicar ciclistas ou outros motoristas. O app simula a conexão com este automóvel e solicita que o mesmo mude para farol baixo momentaneamente.",
 	"developer": {
 		"name": "Adriel Café",
 		"url": "http://adrielcafe.com"
 	},
-	"launch_path": "/farolalto/",
+	"launch_path": "/apps/farolalto/index.html",
 	"installs_allowed_from": ["*"],
 	"default_locale": "pt",
 	"icons": {
-		"32": "/farolalto/images/icon-32.png",
-		"64": "i/farolalto/mages/icon-64.png",
-		"128": "/farolalto/images/icon-128.png",
-		"256": "/farolalto/images/icon-256.png"
+		"32": "/apps/farolalto/images/icon-32.png",
+		"64": "/apps/farolalto/images/icon-64.png",
+		"128": "/apps/farolalto/images/icon-128.png",
+		"256": "/apps/farolalto/images/icon-256.png"
 	}
 }
