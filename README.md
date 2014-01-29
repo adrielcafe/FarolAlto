@@ -12,4 +12,5 @@ Você está pedalando sua bicicleta a noite, ou até mesmo dirigindo seu carro. 
 
 Solução
 -------
-Utilizando o Kit de Desenvolvimento IoT, desenvolvi um aplicativo para Firefox OS que detecta alta luminosidade e simula a comunicação com o automóvel que está 
+Utilizando o Kit de Desenvolvimento IoT, desenvolvi um aplicativo para Firefox OS que detecta alta luminosidade proveniente de faróis altos e simula a comunicação com o automóvel responsável pelo excesso de luminosidade, solicitando que o mesmo mude para farol baixo.
+Essa simulação baseia-se na ideia da Internet of Things, onde supomos que os meios de locomoção trocarão informações com o objetivo de evitar acidentes e tornar o tráfego mais inteligente.
