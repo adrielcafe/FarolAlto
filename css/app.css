@@ -1,0 +1,20 @@
+#monitor {
+	margin-top: 30px;
+}
+
+#detected {
+	margin: 25px 0 15px;
+}
+
+#detected .circle {
+	margin-top: 30px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	background-color: #BBB;
+}
+
+.menu-right {
+	float: right; 
+	padding: 8px;
+}
