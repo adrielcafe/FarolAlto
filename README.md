@@ -1,7 +1,7 @@
 Farol Alto
 ==========
 
-App desenvolvido para Firefox OS que se comunica com o Kit de Desenvolvimento IoT.
+App desenvolvido para Firefox OS que se comunica com o (http://iot.telefonicabeta.com "Kit de Desenvolvimento IoT").
 
 
 Contexto
