@@ -6,7 +6,9 @@ $(function(){
 	var endpoint = 'http://dca.telefonicabeta.com/m2m/v2/services/{0}'.format(token);
 	var timer = null;
 	var lastValue = 0;
-	var limitValue = 400;
+	var limitValue = 600;
+
+	console.log('limitValue: ' + limitValue);
 
 	$('#monitor').click(function(e){
 		e.preventDefault();
