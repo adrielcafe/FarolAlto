@@ -8,7 +8,7 @@ Contexto
 --------
 
 Imagine a seguinte situação: 
-Você está pedalando sua bicicleta a noite, ou até mesmo dirigindo seu carro. De repente um automóvel aparece em sua frente com o farol alto ligado. O que você faria nessa situação? Xingaria o motorista e, se estiver de automóvel, tentaria dar sinal para ele mudar para o farol baixo.
+Você está pedalando sua bicicleta a noite, ou até mesmo dirigindo seu carro. De repente um automóvel aparece em sua frente com o farol alto ligado. O que você faria nessa situação? Xingaria o motorista e, se estivesse de automóvel, daria sinal luminoso para ele mudar para o farol baixo.
 
 O Aplicativo
 ------------
